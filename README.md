@@ -74,3 +74,7 @@ console.log("hola mundo")
 * [ ] tarea 5
 
 > Esta es una cita
+
+<!-- Insertar video de youtube-->
+
+[![vé al siguiente video](https://img.youtube.com/vi/_hI14xuvQag/hqdefault.jpg)](https//www.youtube.com/watch?v=_hI14xuvQag)
