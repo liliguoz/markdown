@@ -77,4 +77,4 @@ console.log("hola mundo")
 
 <!-- Insertar video de youtube-->
 
-[![vé al siguiente video](https://img.youtube.com/vi/_hI14xuvQag/hqdefault.jpg)](https//www.youtube.com/watch?v=_hI14xuvQag)
+[![vé al siguiente video](https://img.youtube.com/vi/_hI14xuvQag/hqdefault.jpg)](https://www.youtube.com/watch?v=_hI14xuvQag)
