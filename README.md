@@ -63,3 +63,14 @@ console.log("hola mundo")
 
 [periodico el pais](https://www.elpais.es "periodico chachi")
 
+<!--Insertar imágenes-->
+
+![visual studio logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/164px-Visual_Studio_2017_Logo.svg.png "visual studio logo")
+
+* [X] tarea 1
+* [ ] tarea 2
+* [ ] tarea 3
+* [X] tarea 4
+* [ ] tarea 5
+
+> Esta es una cita
